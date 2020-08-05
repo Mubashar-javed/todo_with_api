@@ -1,3 +1,4 @@
+# pgNo 70
 import os
 
 # Build paths inside the project like this: os.path.join(BASE_DIR, ...)
@@ -10,8 +11,6 @@ DEBUG = True
 
 ALLOWED_HOSTS = []
 
-
-# Application definition
 
 INSTALLED_APPS = [
     'django.contrib.admin',
